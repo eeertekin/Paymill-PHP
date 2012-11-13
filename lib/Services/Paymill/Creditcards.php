@@ -10,7 +10,7 @@ class Services_Paymill_Creditcards extends Services_Paymill_Base
     /**
      * {@inheritDoc}
      */
-    protected $_serviceResource = 'creditcards/';
+    protected $_serviceResource = 'payments/';
 
     /**
      * {@inheritDoc}
